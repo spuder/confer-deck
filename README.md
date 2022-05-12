@@ -7,6 +7,8 @@ Designed for the Lows Intex Confer SP3248 Handi Spa Hot Tub Deck Foundation Resi
 
 [Lowes Intex Confer Deck Foundation](https://www.lowes.com/pd/Confer-Confer-SP3248-Handi-Spa-Hot-Tub-Deck-Foundation-Resin-Base-Pad-3-Pack-Gray/5001637275)
 
+Includes 3d scan of confer deck using polycam
+
 
 
 ## :globe_with_meridians: Links
@@ -14,6 +16,7 @@ Designed for the Lows Intex Confer SP3248 Handi Spa Hot Tub Deck Foundation Resi
 
 
 - **Printables**: [https://www.printables.com/model/203071-hot-tub-easy-pad-connectors](https://www.printables.com/model/203071-hot-tub-easy-pad-connectors)
+- **Github**: [https://github.com/spuder/confer-deck](https://github.com/spuder/confer-deck)
 
 ## :triangular_ruler: CAD files
 
@@ -24,9 +27,13 @@ Designed for the Lows Intex Confer SP3248 Handi Spa Hot Tub Deck Foundation Resi
 | Filename | STL | GIF | 
 | --- | --- | --- | 
 | [CAD/Bone-v8.stl](./CAD%2FBone-v8.stl) | ![](./CAD%2FBone-v8.png) | ![](./CAD%2FBone-v8.gif) | 
+| [CAD/pad.stl](./CAD%2Fpad.stl) | ![](./CAD%2Fpad.png) | ![](./CAD%2Fpad.gif) | 
 
 
 ## :camera: Photos
+![](photos%2FBones%20v8.png)
+![](photos%2FBones1.png)
+![](photos%2FDrawing1.png)
 ![](photos%2FScreen%20Shot%202022-05-11%20at%209.53.57%20PM.png)
 
 ---
