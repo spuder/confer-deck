@@ -1,26 +1,26 @@
 ---
-name: Changeme
+name: Lowes Intex Confer SP3248 Hot Tub Deck Foundation Connector
 description: |
-  To change this file, modify settings.yaml and templates/README.md, then run 
-  ```
-  git submodule update -init
-  make all
-  ```
+  
+  ## Easy Pad connectors
+  
+  Designed for the Lows Intex Confer SP3248 Handi Spa Hot Tub Deck Foundation Resin Base Pad (3 Pack), Gray
 
-  **Do not edit README.md directly as it will be overwritten..**
+  [Lowes Intex Confer Deck Foundation](https://www.lowes.com/pd/Confer-Confer-SP3248-Handi-Spa-Hot-Tub-Deck-Foundation-Resin-Base-Pad-3-Pack-Gray/5001637275)
+
 license: 
-  type: undef # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
+  type: CC-Attribution # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
   owner: Spencer Owen
   year: 2022
 resources:
-  foo: https://example.com
-fusion_link: https://autodesk.example.com #comment out if no fusion link
+  # foo: https://example.com
+# fusion_link: https://autodesk.example.com #comment out if no fusion link
 links:
-  Thingiverse: https://www.thingiverse.com/thing:xxxx
-  Printables: https://foo.com
-  GrabCad: https://foo.com
-  Hackster.io: https://hackster.io/foo
-  Hackaday: https://hackaday.io/foo
-  Reddit: https://www.reddit.com/r/foo
-  Github: https://github.com/foo
-  Blog: https://foo.com
+  # Thingiverse: https://www.thingiverse.com/thing:xxxx
+  Printables: https://www.printables.com/model/203071-hot-tub-easy-pad-connectors
+  # GrabCad: https://foo.com
+  # Hackster.io: https://hackster.io/foo
+  # Hackaday: https://hackaday.io/foo
+  # Reddit: https://www.reddit.com/r/foo
+  # Github: https://github.com/foo
+  # Blog: https://foo.com
